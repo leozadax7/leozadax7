@@ -1,6 +1,6 @@
 # Olá!
 
-Meu nome é **Alexandre Nassar de Peder**. Sou professor de *programação* :sunglasses:
+Meu nome é **Leonardo Barbosa Figueiredo** Sou aluno* :sunglasses:
 
 Tenho experiência com as seguintes linguagens de programação e ferramentas:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
